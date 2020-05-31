@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>583334189998-r7ojirk1cs75iumc1emqks3adovaq8au.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.583334189998-r7ojirk1cs75iumc1emqks3adovaq8au</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHUAs6Ozw-Su4kLdww_qUyJeDOXfm9s5M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>583334189998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterApp</string>
+	<key>PROJECT_ID</key>
+	<string>placefinder-1c68b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>placefinder-1c68b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:583334189998:ios:64b36040a013dd2d82863f</string>
+	<key>DATABASE_URL</key>
+	<string>https://placefinder-1c68b.firebaseio.com</string>
+</dict>
+</plist>
