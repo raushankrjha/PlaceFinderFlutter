@@ -497,7 +497,7 @@ class _settings_screenState extends State<settings_screen> {
                         width: _appConfig.rWP(5),
                       ),
                       Text(
-                        "Contact Us",
+                        "Add My Shop!",
                         style: TextStyle(fontFamily: 'LatoMedium'),
                       ),
                     ],

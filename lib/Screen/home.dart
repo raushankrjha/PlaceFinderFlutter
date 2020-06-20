@@ -120,7 +120,7 @@ class _homeState extends State<home> {
                                   margin:
                                       prefix0.EdgeInsets.fromLTRB(0, 20, 0, 0),
                                   child: Text(
-                                    "Place Finder",
+                                    "My Shop",
                                     style: prefix0.TextStyle(
                                       fontSize: 30,
                                       fontFamily: 'Righteous',
